@@ -33,9 +33,5 @@ Jobify is a dynamic full-stack application that simplifies job management, built
 3. Set up your MongoDB database with the provided configuration.
 4. Run the application using `npm start`.
 
-## Contributing:
-
-We welcome contributions! Please follow the [contribution guidelines](CONTRIBUTING.md).
-
 
 **Happy Coding!** 🚀👩‍💻👨‍💻
